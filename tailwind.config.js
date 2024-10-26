@@ -1,8 +1,13 @@
 module.exports = {
-  purge: [],
+  content: [
+    './**/*.html',
+    './**/*.{js,jsx,ts,tsx,vue}',
+  ],
   theme: {
     extend: {},
   },
   variants: {},
-  plugins: [],
+  plugins: [
+    require('tailwindcss-animated')
+  ],
 }
