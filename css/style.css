@@ -521,7 +521,7 @@ a[href*='mailto'] {
 	height: 0;
 	border-style: solid;
 	border-width: 0 34.5px 60px 34.5px;
-	border-color: transparent transparent #72d5a5 transparent;
+	border-color: transparent transparent #209CEE transparent;
 	transform: translate3d(-50%, 0, 0) rotate(15deg);
 	transform-origin: 50% 80%;
 	transition: all .3s ease;
@@ -566,7 +566,7 @@ a[href*='mailto'] {
 	height: 100%;
 	left: 50%;
 	right: 50%;
-	background: #72d5a5;
+	background: #209CEE;
 	transition: all .3s ease;
 }
 
@@ -6932,7 +6932,7 @@ html [class*='section-'].section-top-0 {
 }
 
 .context-dark .footer-social-list-2 a:hover {
-	color: #72d5a5;
+	color: #209CEE;
 }
 
 .footer-minimal.context-dark .footer-minimal-bottom-panel,
